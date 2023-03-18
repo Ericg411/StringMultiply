@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMultiply", "StringMultiply\StringMultiply.csproj", "{493C4812-542C-41D9-8F71-70E87E753CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMultiply.Tests", "StringMultiply.Tests\StringMultiply.Tests.csproj", "{15657D45-A991-4CE6-9A7A-DD3DBAE643CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493C4812-542C-41D9-8F71-70E87E753CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493C4812-542C-41D9-8F71-70E87E753CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493C4812-542C-41D9-8F71-70E87E753CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493C4812-542C-41D9-8F71-70E87E753CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15657D45-A991-4CE6-9A7A-DD3DBAE643CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15657D45-A991-4CE6-9A7A-DD3DBAE643CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15657D45-A991-4CE6-9A7A-DD3DBAE643CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15657D45-A991-4CE6-9A7A-DD3DBAE643CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1072F2B-B0D6-484A-A38C-2464AF036757}
+	EndGlobalSection
+EndGlobal
